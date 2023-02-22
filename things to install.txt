@@ -1,0 +1,3 @@
+npm install dompurify
+npm install react-icons
+npm install react-router-dom
